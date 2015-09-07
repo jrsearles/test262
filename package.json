@@ -1,0 +1,25 @@
+{
+  "name": "test262",
+  "version": "1.0.0",
+  "description": "> See [CONTRIBUTING.md](./CONTRIBUTING.md)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrsearles/test262.git"
+  },
+  "keywords": [
+    "test262"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jrsearles/test262/issues"
+  },
+  "homepage": "https://github.com/jrsearles/test262#readme"
+}
